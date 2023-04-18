@@ -1,15 +1,17 @@
 # Recycle Time
 
-This app has the goal to teach user, specially kids, about the importance of allocating garbage the right way, in order to do that, the app presented problemns caused by the trash and than one possible way to mitigate it, the Selective Waste Collection.
+This app has the goal to teach user, specially kids, about the importance of allocating garbage the right way, in order to do that, the app presented problemns caused by the trash and than one possible way to mitigate it, Selective Waste Collection.
 
-Recycle Ranger, is a superhero that battle against the trash that people throw away, invited the user to help him with this problemns, on this process of solving this problem, the user may have learned how the Selective Waste Collection works and the importance of allocating trash the right way.
+Recycle Ranger, is a superhero that battle against the trash that people throw away, he invited the user to help him with this problemns, on the process of solving it, the user may have learned how the Selective Waste Collection works and the importance of allocating trash the right way.
 
 It's important to highlight that the colors of Selective Waste Collection may vary in different countries, and the app was made based on the colors used in Brazil. However, the true goal of the app isn't to teach the colors, but to create the conscience of allocating trash the right way.
 
-All the icons and backgrounds were thirdparty, I searched then on plataforms like Freepik and Flaticon, there I found different icons and photos from different authors, with that, I referenced then and I'm relly greatfull for these people.
+All the icons and backgrounds were thirdparty, I searched then on plataforms like Freepik and Flaticon, there I found different icons and photos from different authors, they were all referenced and I'm relly greatfull for these people.
 
 # Running the app
-**The app must run on a Iphone 14 device or a Iphone 14 simulator**. I recommend it to be used on a device, since there is Haptice Feedback.
+**The app must run on a Iphone 14 device or a Iphone 14 simulator**. 
+
+I recommend it to be used on a device, since there is Haptice Feedback.
     
 # References
 ### Icons used on the app:
