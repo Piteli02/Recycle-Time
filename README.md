@@ -15,33 +15,33 @@ All the icons and backgrounds were thirdparty, I searched then on plataforms lik
 ### Icons used on the app:
 #### (Licenses are on the "Licenses" folder, following this order)
 
-1 - <a href="https://www.flaticon.com/br/icones-gratis/ideia" title="idéia ícones">Idéia ícones criados por Good Ware - Flaticon</a>
+1 - <a href="https://www.flaticon.com/br/icone-gratis/lampada_702797?term=idéia&page=1&position=11&origin=tag&related_id=702797" title="idéia ícones">Idéia ícones criados por Good Ware - Flaticon</a>
 
-2 - <a href="https://www.flaticon.com/free-icons/play-again" title="play again icons">Play again icons created by surang - Flaticon</a>
+2 - <a href="https://www.flaticon.com/free-icon/replay_5068521?term=play+again&page=1&position=25&origin=tag&related_id=5068521" title="play again icons">Play again icons created by surang - Flaticon</a>
 
-3 - <a href="https://www.flaticon.com/br/icones-gratis/super-heroi" title="super heroi ícones">Super heroi ícones criados por Freepik - Flaticon</a>.
+3 - <a href="https://www.flaticon.com/br/packs/superhero-6" title="super heroi ícones">Super heroi ícones criados por Freepik - Flaticon</a>.
 
-4 - <a href="https://www.flaticon.com/br/icones-gratis/papel-velho" title="papel velho ícones">Papel velho ícones criados por Iconic Panda - Flaticon</a>
+4 - <a href="https://www.flaticon.com/br/icone-gratis/papel-velho_7083511?term=papel+velho&page=1&position=6&origin=tag&related_id=7083511" title="papel velho ícones">Papel velho ícones criados por Iconic Panda - Flaticon</a>
 
-5 - <a href="https://www.flaticon.com/free-icons/water-bottle" title="water bottle icons">Water bottle icons created by Freepik - Flaticon</a>
+5 - <a href="https://www.flaticon.com/free-icon/water-bottle_4507469?term=water+bottle&related_id=4507469" title="water bottle icons">Water bottle icons created by Freepik - Flaticon</a>
 
-6 - <a href="https://www.flaticon.com/br/icones-gratis/canudo" title="canudo ícones">Canudo ícones criados por srip - Flaticon</a>
+6 - <a href="https://www.flaticon.com/br/icone-gratis/tubo_3506865?term=canudo&page=1&position=4&origin=tag&related_id=3506865" title="canudo ícones">Canudo ícones criados por srip - Flaticon</a>
 
-7 - <a href="https://www.flaticon.com/free-icons/wellness" title="wellness icons">Wellness icons created by iconfield - Flaticon</a>
+7 - <a href="https://www.flaticon.com/free-icon/perfume-bottle_10273431?term=perfume&page=1&position=71&origin=search&related_id=10273431" title="wellness icons">Wellness icons created by iconfield - Flaticon</a>
 
-8 - <a href="https://www.flaticon.com/free-icons/chips" title="chips icons">Chips icons created by Freepik - Flaticon</a>
+8 - <a href="https://www.flaticon.com/free-icon/products_384998?term=chips&page=1&position=4&origin=tag&related_id=384998" title="chips icons">Chips icons created by Freepik - Flaticon</a>
 
-9 - <a href="https://www.flaticon.com/free-icons/bitten" title="bitten icons">Bitten icons created by Flat Icons - Flaticon</a>
+9 - <a href="https://www.flaticon.com/free-icon/chicken-leg_3098283?term=chicken+leg+bitten&page=1&position=3&origin=search&related_id=3098283" title="bitten icons">Bitten icons created by Flat Icons - Flaticon</a>
 
-10 - <a href="https://www.flaticon.com/free-icons/bitten-apple" title="bitten apple icons">Bitten apple icons created by Freepik - Flaticon</a>
+10 - <a href="https://www.flaticon.com/free-icon/apple_3320396?term=bitten+apple&page=1&position=2&origin=tag&related_id=3320396" title="bitten apple icons">Bitten apple icons created by Freepik - Flaticon</a>
 
-11 - <a href="https://www.flaticon.com/free-icons/banana" title="banana icons">Banana icons created by Freepik - Flaticon</a>
+11 - <a href="https://www.flaticon.com/br/icone-gratis/banana_6722940?term=banana+comida&page=1&position=96&origin=search&related_id=6722940" title="banana icons">Banana icons created by Freepik - Flaticon</a>
 
-12 - <a href="https://www.flaticon.com/free-icons/news" title="news icons">News icons created by Freepik - Flaticon</a>
+12 - <a href="https://www.flaticon.com/free-icon/newspaper_1074055?term=news&related_id=1074055" title="news icons">News icons created by Freepik - Flaticon</a>
 
-13 - <a href="https://www.flaticon.com/free-icons/box" title="box icons">Box icons created by Freepik - Flaticon</a>
+13 - <a href="https://www.flaticon.com/free-icon/open-box_869027?term=box&page=1&position=13&origin=tag&related_id=869027" title="box icons">Box icons created by Freepik - Flaticon</a>
 
-14 - <a href="https://www.flaticon.com/br/icones-gratis/reciclar" title="reciclar ícones">Reciclar ícones criados por Freepik - Flaticon</a>
+14 - <a href="https://br.freepik.com/icones-gratis/reciclar-simbolo-triangular-de-rotacao-tres-setas_793419.htm#page=3&query=Setas%20triangulares%20assinar%20para%20reciclagem&position=46&from_view=author" title="reciclar ícones">Reciclar ícones criados por Freepik - Flaticon</a>
 
 15 - <a href="https://www.flaticon.com/free-icon/beer-can_3518077?term=beer&page=1&position=23&origin=tag&related_id=3518077" title="beer icons">Beer icons created by kliwir art - Flaticon</a>
 
