@@ -1,12 +1,12 @@
 # Recycle Time
 
-This app has the goal to teach user, specially kids, about the importance of allocating garbage the right way, in order to do that, the app presented problemns caused by the trash and than one possible way to mitigate it, Selective Waste Collection.
+This app has the goal to teach user, specially kids, about the importance of allocating garbage the right way. In order to do that, the app presented problems caused by the trash in a very friendly way, like comparing the amount of trash produced with elephants weight, after it, there was presented one possible way to mitigate it, the Selective Waste Collection, this method of dealing with trash was chosen because it has colors that may keep child focused and entertained. 
 
-Recycle Ranger, is a superhero that battle against the trash that people throw away, he invited the user to help him with this problemns, on the process of solving it, the user may have learned how the Selective Waste Collection works and the importance of allocating trash the right way.
+Since the app is mainly focused on kids, I thought it would be interesting to create a character which they could relate, like the Recycle Ranger, who is a superhero that battle against the trash that people throw away. In the app, he invited the user to help him with the trash problem, on the process of solving it, the user may have learned how the Selective Waste Collection works and the importance of allocating trash the right way.
 
-It's important to highlight that the colors of Selective Waste Collection may vary in different countries, and the app was made based on the colors used in Brazil. However, the true goal of the app isn't to teach the colors, but to create the conscience of allocating trash the right way.
+I chose this idea because there are really close people to me who work with environment protection, so I always had this concern about how we are treating the world that will host next generations. This app is only a possible way of mitigating the problem, because in the context of allocating trash the right way, we still have a lot to do in order to spread information and infrastructure for collecting and treating trash.
 
-All the icons and backgrounds were thirdparty, I searched then on plataforms like Freepik and Flaticon, there I found different icons and photos from different authors, they were all referenced and I'm relly greatfull for these people.
+All the icons and backgrounds were third-party, I searched then on platforms like Freepik and Flaticon, I found different icons and photos from different authors, they were all referenced and I'm really grateful for these people and all of those who helped me, like mentors and colleagues.
 
 # Running the app
 **The app must run on a Iphone 14 device or a Iphone 14 simulator**. 
