@@ -9,7 +9,8 @@ I chose this idea because there are really close people to me who work with envi
 All the icons and backgrounds were third-party, I searched then on platforms like Freepik and Flaticon, I found different icons and photos from different authors, they were all referenced and I'm really grateful for these people and all of those who helped me, like mentors and colleagues.
 
 # Running the app
-**The app must run on a Iphone 14 device or a Iphone 14 simulator**. 
+**The app must run on a Iphone 14 device or a Iphone 14 simulator**
+**Cellphone orientation is locked to portrait**
 
 I recommend it to be used on a device, since there is Haptice Feedback.
     
@@ -90,8 +91,12 @@ Marine Debris Program - https://marinedebris.noaa.gov/
 
 Terracycle - https://www.terracycle.com/en-GB/
 
+# Observations
+In different part of the world, the colors of the bins may vary, although, the important part of the project it is to show to the user the importance of giving the trash the right destiny.
+
 ___
 
-Created by Caio Gomes Piteli in April of 2023
+Created by Caio Gomes Piteli on April of 2023
 
 Submitted for WWDC23
+
