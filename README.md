@@ -96,6 +96,8 @@ In different part of the world, the colors of the bins may vary, although, the i
 
 Since this is my first SWIFT project, I belive there are loads of things I could improve on my coding and design. Especially thins like using "position", that makes my app doesn't work as it should in other screens or in other rotation, or the organization of the files. Altough, I'll keep working on my hardskills and hope to get better.
 
+I still don't have experience with Git or Github, so i didn't make versions of my program, I did it on my machine and uploaded the files to GitHub.
+
 ___
 
 Created by Caio Gomes Piteli on April of 2023
